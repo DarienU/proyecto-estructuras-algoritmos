@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="right-down" width="14" height="10" tilewidth="48" tileheight="48" infinite="0" nextlayerid="3" nextobjectid="29">
+ <tileset firstgid="1" name="UINKK2" tilewidth="48" tileheight="48" tilecount="1258" columns="34">
+  <image source="UINKK2.png" width="1644" height="1797"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" class="platform" width="14" height="10">
+  <data encoding="csv">
+715,716,716,717,718,719,720,721,722,723,724,725,726,727,
+749,921,750,751,752,753,754,755,756,757,758,759,760,761,
+783,920,784,785,786,787,788,789,790,791,792,793,794,795,
+817,920,818,819,820,821,822,823,824,825,826,827,828,829,
+851,920,852,853,854,855,856,857,858,859,860,861,862,863,
+885,954,886,887,888,889,890,891,892,893,894,895,896,897,
+919,988,920,921,922,923,924,925,926,927,928,929,930,931,
+953,954,954,955,956,957,958,959,960,961,962,963,964,965,
+987,988,988,989,990,991,992,993,994,995,996,997,998,999,
+1021,1022,1022,1023,1024,1025,1026,1027,1028,1029,1030,1031,1032,1033
+</data>
+ </layer>
+ <objectgroup id="2" name="Object Layer 1">
+  <object id="12" class="exit" x="327.749" y="375.512" width="73.7619" height="40.3934"/>
+  <object id="13" class="wall" x="34.2588" y="386.071" width="258.166" height="20.5923"/>
+  <object id="14" class="wall" x="31.6122" y="29.856" height="400.421"/>
+  <object id="15" class="wall" x="94.8367" y="161.574" width="103.618" height="91.3242"/>
+  <object id="16" class="wall" x="414.471" y="221.286" width="149.28" height="1.75623"/>
+  <object id="17" class="wall" x="609.413" y="93.0804" width="1.75623" height="289.779"/>
+  <object id="18" class="wall" x="461.89" y="367.85" width="144.011" height="17.4456"/>
+  <object id="19" class="wall" x="291.535" y="208.992" width="28.0998"/>
+  <object id="20" class="wall" x="214.261" y="163.33" width="54.4433" height="40.3934"/>
+  <object id="21" class="wall" x="105.374" y="33.3685" width="152.792" height="114.155"/>
+  <object id="27" class="wall" x="278.595" y="27.7505" width="295.114" height="154.417"/>
+  <object id="28" class="wall" x="218.973" y="440.139" width="295.114" height="154.417"/>
+  <object id="23" class="wall" x="32.2315" y="30.86" width="74.0639" height="1.37155"/>
+  <object id="24" class="puz" x="492.162" y="285.658" width="47.6807" height="35.4199"/>
+ </objectgroup>
+</map>

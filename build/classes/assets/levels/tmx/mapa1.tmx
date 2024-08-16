@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="right-down" width="14" height="9" tilewidth="48" tileheight="48" infinite="0" nextlayerid="4" nextobjectid="20">
+ <tileset firstgid="1" name="UINKK24" tilewidth="48" tileheight="48" tilecount="1258" columns="34">
+  <image source="UINKK2.png" width="1644" height="1797"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" class="platform" width="14" height="9">
+  <data encoding="csv">
+35,36,37,38,39,40,41,42,43,44,45,46,47,48,
+69,70,71,72,73,74,75,76,77,78,79,80,81,82,
+103,104,105,106,107,108,109,110,111,112,113,114,115,116,
+137,138,139,140,141,142,143,144,145,146,147,148,149,150,
+171,172,173,174,175,176,177,178,179,180,181,182,183,184,
+205,206,207,208,209,210,211,212,213,214,215,216,217,218,
+239,240,241,242,243,244,245,246,247,248,249,250,251,252,
+273,274,275,276,277,278,279,280,281,282,283,284,285,286,
+307,308,309,310,311,312,313,314,315,316,317,318,319,320
+</data>
+ </layer>
+ <layer id="3" name="MUEBLES" width="14" height="9">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,840,72,0,0,88,89,90,91,92,93,0,0,
+0,0,0,0,0,0,122,123,124,125,126,127,0,0,
+0,223,224,225,226,0,156,157,158,159,160,161,0,0,
+0,257,258,259,260,0,190,191,192,193,194,195,0,0,
+0,291,292,293,294,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,222,222,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="2" name="Object Layer 1">
+  <object id="3" class="wall" x="83.3311" y="43.811" width="115.268" height="7.02471"/>
+  <object id="4" name="paredizq" class="wall" x="17.5081" y="80.2917" width="69.2399" height="265.138"/>
+  <object id="8" class="wall" x="572.81" y="73.4839" width="69.3173" height="269.822"/>
+  <object id="10" name="paredbaja" class="exit" x="218.691" y="23.1794" width="44.3838" height="10.3342"/>
+  <object id="11" class="wall" x="330.212" y="73.928" width="85.7565" height="96.8083"/>
+  <object id="12" class="wall" x="462.297" y="74.9138" width="88.7137" height="100.057"/>
+  <object id="13" class="wall" x="487.049" y="286.981" width="88.3696" height="40.6279"/>
+  <object id="14" class="wall" x="90.9011" y="178.526" width="115.454" height="61.7716"/>
+  <object id="15" class="wall" x="90.1361" y="335.035" width="484.08" height="16.8263"/>
+  <object id="16" class="wall" x="296.109" y="0.131159" width="279.484" height="64.766"/>
+  <object id="19" class="wall" x="104.484" y="13.7767" width="269.937" height="12.0636"/>
+  <object id="18" class="instrucciones" x="95.0754" y="49.6379" width="39.6904" height="12.0685"/>
+ </objectgroup>
+</map>

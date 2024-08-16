@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/codigo/EntityType.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>4</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/modelo/Interfaz.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/modelo/EntityType.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/modelo/Inventario.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/vista/Puzzle5.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/controlador/PlayerComponentes.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/controlador/NPCComponentes.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/controlador/NPCMineroComponentes.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/controlador/PrincesaComponentes.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/modelo/OperacionesCorazon.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/Main.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/vista/ZeldaaMainMenu.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/vista/InstruccionesDialogo.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/vista/Puzzle1.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/controlador/NPCBusquedaComponentes.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/controlador/NPCPuzzle1Componentes.java</file>
+            <file>file:/Users/darienumanazuniga/Desktop/Prueba1/src/codigo/modelo/ZeldaFactory.java</file>
+        </group>
+    </open-files>
+</project-private>
